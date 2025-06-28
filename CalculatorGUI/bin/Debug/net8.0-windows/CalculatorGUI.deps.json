@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CalculatorGUI/1.0.0": {
+        "dependencies": {
+          "CalculatorTDD": "1.0.0"
+        },
+        "runtime": {
+          "CalculatorGUI.dll": {}
+        }
+      },
+      "CalculatorTDD/1.0.0": {
+        "runtime": {
+          "CalculatorTDD.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculatorGUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalculatorTDD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

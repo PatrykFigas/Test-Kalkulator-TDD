@@ -1,0 +1,14 @@
+C:\Users\patry\Desktop\KalkulatorTDD\CalculatorTDD\bin\Debug\net8.0\CalculatorTDD.exe
+C:\Users\patry\Desktop\KalkulatorTDD\CalculatorTDD\bin\Debug\net8.0\CalculatorTDD.deps.json
+C:\Users\patry\Desktop\KalkulatorTDD\CalculatorTDD\bin\Debug\net8.0\CalculatorTDD.runtimeconfig.json
+C:\Users\patry\Desktop\KalkulatorTDD\CalculatorTDD\bin\Debug\net8.0\CalculatorTDD.dll
+C:\Users\patry\Desktop\KalkulatorTDD\CalculatorTDD\bin\Debug\net8.0\CalculatorTDD.pdb
+C:\Users\patry\Desktop\KalkulatorTDD\CalculatorTDD\obj\Debug\net8.0\CalculatorTDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patry\Desktop\KalkulatorTDD\CalculatorTDD\obj\Debug\net8.0\CalculatorTDD.AssemblyInfoInputs.cache
+C:\Users\patry\Desktop\KalkulatorTDD\CalculatorTDD\obj\Debug\net8.0\CalculatorTDD.AssemblyInfo.cs
+C:\Users\patry\Desktop\KalkulatorTDD\CalculatorTDD\obj\Debug\net8.0\CalculatorTDD.csproj.CoreCompileInputs.cache
+C:\Users\patry\Desktop\KalkulatorTDD\CalculatorTDD\obj\Debug\net8.0\CalculatorTDD.dll
+C:\Users\patry\Desktop\KalkulatorTDD\CalculatorTDD\obj\Debug\net8.0\refint\CalculatorTDD.dll
+C:\Users\patry\Desktop\KalkulatorTDD\CalculatorTDD\obj\Debug\net8.0\CalculatorTDD.pdb
+C:\Users\patry\Desktop\KalkulatorTDD\CalculatorTDD\obj\Debug\net8.0\CalculatorTDD.genruntimeconfig.cache
+C:\Users\patry\Desktop\KalkulatorTDD\CalculatorTDD\obj\Debug\net8.0\ref\CalculatorTDD.dll
